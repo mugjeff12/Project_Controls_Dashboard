@@ -1,0 +1,9 @@
+TaskID,TaskName,BAC,PlannedPctComplete,ActualPctComplete,ActualCostToDate,PV_task,EV_task,AC_task
+1,Outage Planning & Permits,8000,100.0,100.0,7900,8000.0,8000.0,7900
+2,Unit Shutdown & Cooldown,12000,100.0,90.0,12500,12000.0,10800.0,12500
+3,Turbine Casing Inspection,18000,80.0,60.0,14000,14400.0,10800.0,14000
+4,Blade Replacement,40000,60.0,50.0,22000,24000.0,20000.0,22000
+5,Rotor Balancing,15000,40.0,30.0,6000,6000.0,4500.0,6000
+6,Functional Testing,12000,20.0,10.0,2000,2400.0,1200.0,2000
+7,Startup & Synchronization,15000,0.0,0.0,0,0.0,0.0,0
+8,Closeout & Documentation,10000,0.0,0.0,0,0.0,0.0,0
